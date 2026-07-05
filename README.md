@@ -13,8 +13,13 @@ This project demonstrates how Python can be used to compare DNA sequences and id
 You simply have to download the .py and fasta files (or get your own fasta files from a database as [NCBI](https://www.ncbi.nlm.nih.gov/)).
 
 ## Usage
-First you'll have to select the file of the original gene of interest. Then you'll have to select the file of the patient gene data. When finished running, the script will give you the positions of the mutations in the patient data compared to the original gene, and both the original DNA bases and the mutated ones in these positions.
-If you want to recreate the example of the slides use the provided fasta file COL7A1 as the original gene and patient_sequence as the patient gene.
+Run the script and select:
+1. The reference gene sequence.
+2. The patient's DNA sequence.
+The program compares both sequences and reports:
+- Positions of detected variants
+- Reference nucleotide
+- Patient nucleotide
 
 ## Example
 ```
