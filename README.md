@@ -1,5 +1,5 @@
 # Prenatal genetic diagnosis with Python
-Python application developed for the PyConES 2025 talk "Diagnóstico prenatal de enfermedades genéticas usando Python".
+Python application developed for the PyConES 2025 talk "Prenatal diagnosis of genetic diseases using Python".
 This project demonstrates how Python can be used to compare DNA sequences and identify genetic variants associated with inherited diseases.
 
 ## Features
