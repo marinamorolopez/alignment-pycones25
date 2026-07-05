@@ -29,12 +29,12 @@ Patient sequence: patient_sequence.fasta
 ```
 Output
 ```
-Position: 253
-Reference: G
-Patient: A
-Position: 418
-Reference: C
+Position: 884
+Reference: A
 Patient: T
+Position: 6591
+Reference: T
+Patient: C
 ```
 
 ## Contributing
