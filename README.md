@@ -14,8 +14,9 @@ You simply have to download the .py and fasta files (or get your own fasta files
 
 ## Usage
 Run the script and select:
-1. The reference gene sequence.
-2. The patient's DNA sequence.
+1. The reference gene sequence
+2. The patient's DNA sequence
+
 The program compares both sequences and reports:
 - Positions of detected variants
 - Reference nucleotide
